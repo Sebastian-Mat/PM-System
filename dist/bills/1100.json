@@ -1,0 +1,42 @@
+{
+  "id": "1100",
+  "date": "Oct-23-2020",
+  "c_name": "Sebastian Matute",
+  "c_id": "1002029347",
+  "c_age": "18",
+  "c_cellphone": "3508294886",
+  "c_address": "St. 47 #8-20",
+  "p_name": "Pharma All",
+  "p_nit": "109238946-2",
+  "p_address": "St. 100-20",
+  "p_cellphone": "3121009382",
+  "medicaments": [
+    {
+      "medicament": {
+        "address": "St. 100-99",
+        "cellphone": "300291092",
+        "description": "Pills",
+        "id": "1001",
+        "m_name": "Acetaminofen",
+        "name": "Pharma All",
+        "nit": "109238946-2",
+        "price": "5200"
+      },
+      "quantity": "3"
+    },
+    {
+      "medicament": {
+        "address": "St. 100-99",
+        "cellphone": "300291092",
+        "description": "Pills",
+        "id": "1002",
+        "m_name": "Loratadina",
+        "name": "Pharma All",
+        "nit": "109238946-2",
+        "price": "2400"
+      },
+      "quantity": "2"
+    }
+  ],
+  "total": "20400"
+}
